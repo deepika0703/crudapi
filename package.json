@@ -1,0 +1,19 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "creating simple crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepika0703/crudapi.git"
+  },
+  "author": "deepu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepika0703/crudapi/issues"
+  },
+  "homepage": "https://github.com/deepika0703/crudapi#readme"
+}
